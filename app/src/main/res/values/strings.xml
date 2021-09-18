@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleIncomeTask</string>
+    <string name="name">Income Name</string>
+    <string name="amount">Amount $</string>
+</resources>
